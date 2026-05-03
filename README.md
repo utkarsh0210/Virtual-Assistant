@@ -1,4 +1,4 @@
-# Bharvishya v2.0 🇮🇳
+# Bharvishya
 
 > *"India's Future"* — A production-grade AI voice assistant powered by Gemini Pro
 
